@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+  <title id="title">Technical Overview</title>
+  <desc id="desc">A four-part overview of Omer Salle's web, backend, systems, and cybersecurity work in an icy blue and white palette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111923"/><stop offset="1" stop-color="#1d2a37"/></linearGradient>
+    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b8e7fa" stop-opacity="0"/><stop offset=".5" stop-color="#e8f8ff"/><stop offset="1" stop-color="#b8e7fa" stop-opacity="0"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#22313e"/><stop offset="1" stop-color="#1a2631"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="588" rx="20" fill="url(#bg)" stroke="#657786" stroke-opacity=".65" stroke-width="2"/>
+  <text x="600" y="60" text-anchor="middle" fill="#b7c7d2" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">OMER SALLE  /  ENGINEERING PROFILE</text>
+  <text x="600" y="119" text-anchor="middle" fill="#f5fbff" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="650">Technical Overview</text>
+  <text x="600" y="153" text-anchor="middle" fill="#c3d6e2" font-family="Segoe UI,Arial,sans-serif" font-size="16">A growing toolkit across software engineering and security</text>
+  <path d="M64 180H1136" stroke="#8295a3" stroke-opacity=".35"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g transform="translate(64 207)">
+      <rect width="520" height="150" rx="13" fill="url(#panel)" stroke="#8095a4" stroke-opacity=".62"/>
+      <path d="M0 15Q0 0 15 0H520" fill="none" stroke="#c7edff" stroke-width="3"/>
+      <text x="26" y="43" fill="#bfeaff" font-size="12" font-weight="700" letter-spacing="2">01  /  WEB DEVELOPMENT</text>
+      <text x="26" y="81" fill="#f5fbff" font-size="23" font-weight="600">Interfaces &amp; experiences</text>
+      <text x="26" y="116" fill="#c7d4dc" font-size="16">JavaScript · TypeScript · React · Next.js · Tailwind CSS</text>
+    </g>
+    <g transform="translate(616 207)">
+      <rect width="520" height="150" rx="13" fill="url(#panel)" stroke="#8095a4" stroke-opacity=".62"/>
+      <path d="M0 15Q0 0 15 0H520" fill="none" stroke="#a6d7f1" stroke-width="3"/>
+      <text x="26" y="43" fill="#bfeaff" font-size="12" font-weight="700" letter-spacing="2">02  /  BACKEND &amp; DATA</text>
+      <text x="26" y="81" fill="#f5fbff" font-size="23" font-weight="600">Services &amp; persistence</text>
+      <text x="26" y="116" fill="#c7d4dc" font-size="16">Node.js · Express · PostgreSQL · SQLite · Prisma</text>
+    </g>
+    <g transform="translate(64 380)">
+      <rect width="520" height="150" rx="13" fill="url(#panel)" stroke="#8095a4" stroke-opacity=".62"/>
+      <path d="M0 15Q0 0 15 0H520" fill="none" stroke="#c3cfdd" stroke-width="3"/>
+      <text x="26" y="43" fill="#bfeaff" font-size="12" font-weight="700" letter-spacing="2">03  /  SYSTEMS</text>
+      <text x="26" y="81" fill="#f5fbff" font-size="23" font-weight="600">Linux &amp; low-level programming</text>
+      <text x="26" y="116" fill="#c7d4dc" font-size="16">C · Shell · Linux kernel modules · command line</text>
+    </g>
+    <g transform="translate(616 380)">
+      <rect width="520" height="150" rx="13" fill="url(#panel)" stroke="#8095a4" stroke-opacity=".62"/>
+      <path d="M0 15Q0 0 15 0H520" fill="none" stroke="#d7effa" stroke-width="3"/>
+      <text x="26" y="43" fill="#bfeaff" font-size="12" font-weight="700" letter-spacing="2">04  /  CYBERSECURITY</text>
+      <text x="26" y="81" fill="#f5fbff" font-size="23" font-weight="600">Pentesting &amp; web security</text>
+      <text x="26" y="116" fill="#c7d4dc" font-size="16">Hack The Box · Nmap · PortSwigger Web Security Academy</text>
+    </g>
+  </g>
+  <rect x="64" y="558" width="1072" height="2" rx="1" fill="#607382" opacity=".5"/>
+  <rect x="64" y="558" width="190" height="2" rx="1" fill="url(#ice)"><animate attributeName="x" values="64;1018;64" dur="10s" repeatCount="indefinite"/></rect>
+</svg>
